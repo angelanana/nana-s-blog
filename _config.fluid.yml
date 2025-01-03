@@ -107,7 +107,7 @@ deploy:
 index:
   slogan:
     enable: true
-    text: 这是一条 Slogan
+    text: nana's blog
     api:
       enable: false
       url: "https://v1.hitokoto.cn/"
