@@ -1,3 +1,16 @@
+# 部署文件
 .deploy_git/
+
+# 依赖目录
 node_modules/
+
+# 系统文件
 .DS_Store
+Thumbs.db
+
+# 日志文件
+*.log
+
+# 本地配置文件
+.env
+.env.local
